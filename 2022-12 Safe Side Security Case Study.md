@@ -8,7 +8,7 @@ date modified: 2023-06-26
 # Actions
 - [x] #task Approval from Jon at [[Safe Side Security]] 📅 2023-01-19 ✅ 2023-01-30
 
-## 2022-12 Safe Side Security Case Study
+## 2022-12 Safe Side Security Case Study (==TEST==)
 - Was using the leading industry legacy software
 - Faced with a need to make a major investment in IT infrastructure to support the ongoing requirements on the legacy software, they took the opportunity to explore other options before making the investment
 - After evaluating a number of options they Identified FieldHub as the best suited to their needs because it is cloud based, modern, designed specifically for their type of business, and offers excellent support for recurring billing automation, a primary requirement for their business.
